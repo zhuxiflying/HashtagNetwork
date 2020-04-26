@@ -19,6 +19,9 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
 
+/*
+ * This class count the frequency of hashtags;
+ */
 public class HashtagFrequency {
 	
 	private static String hashtagFolder = "D:\\Data\\HashtagNetwork\\hashtagTweets\\";
